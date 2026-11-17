@@ -1,0 +1,33 @@
+# --- Environment & Sensitive Credentials ---
+.env
+*.env
+**/env/
+venv/
+**/venv/
+
+# --- Python / FastAPI Backend ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+*.egg-info/
+
+# --- Flutter / Dart (Student, Teacher, & Admin Apps) ---
+**/build/
+**/.dart_tool/
+**/.packages
+pubspec.lock
+**/ios/Pods/
+**/ios/.symlinks/
+**/windows/flutter/ephemeral/
+**/android/.gradle/
+
+# --- IDE & OS Junk ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

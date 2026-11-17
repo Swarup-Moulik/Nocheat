@@ -1,0 +1,11 @@
+Question,Option A,Option B,Option C,Option D,Marks
+What is the capital of France?,Berlin,(ans)Paris,Madrid,Rome,1
+Which data structure uses LIFO order?,Queue,(ans)Stack,Heap,Graph,2
+"Which of these is a compiled language, not interpreted?",Python,(ans)C++,Ruby,JavaScript,2
+What is 12 x 12?,124,132,(ans)144,154,1
+"In Dart, which keyword declares a value that never changes after assignment?",var,(ans)final,dynamic,late,3
+What does CPU stand for?,(ans)Central Processing Unit,Computer Personal Unit,Central Program Utility,Core Processing Unit,1
+Which protocol is used to load secure web pages?,FTP,HTTP,(ans)HTTPS,SMTP,1
+"Time complexity of binary search on a sorted array?",O(n),(ans)O(log n),O(n log n),O(1),2
+Which planet is known as the Red Planet?,Venus,Jupiter,(ans)Mars,Saturn,1
+Question with no marks column (should default to 1),Option 1,Option 2,(ans)Option 3,Option 4
